@@ -4,13 +4,11 @@ title: ''
 ---
 
 ## Submitted / under review
-**Wu, R.**, Tosun, D., Hausle, I., Heston, M., & Scheffler, A. W. (under review). A Bayesian Threshold-Aligned Joint Disease Progression Model for Alzheimer’s Disease. [[Paper](https://arxiv.org/abs/2606.18139), [Code](https://github.com/Rows21/B-TAJ)]
-
 **Wu, R.**, Chen, Z., Li, G., & Shu, H. (under review). Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data. [[Paper](https://arxiv.org/abs/2502.18756), [Code](https://github.com/Rows21/NSGCCA)]
 
 
 ## Accepted / in press
-
+**Wu, R.**, Tosun, D., Hausle, I., Heston, M., & Scheffler, A. W. (*Statistics and Data Science in Imaging* Accepted). A Bayesian Threshold-Aligned Joint Disease Progression Model for Alzheimer’s Disease. [[Paper](https://arxiv.org/abs/2606.18139), [Code](https://github.com/Rows21/B-TAJ)]
 
 ## 2026
 **Wu, R.**, & Yu, Y. (2026). Enhancing Medical Image Segmentation via Heat Conduction Equation. In *Medical Imaging with Deep Learning-Short Papers*. [[Paper](https://openreview.net/forum?id=XsjDVJOIgY&noteId=XsjDVJOIgY), [Code](https://github.com/Rows21/UMH)]
