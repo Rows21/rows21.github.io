@@ -4,6 +4,8 @@ title: ''
 ---
 
 ## Submitted / under review
+Mirzazadeh, A., Kannan, A., Tungjitviboonkun, S., Sullivan, K. M., Wang, S., & **Wu, R.** (under review). AI Use and Student Performance in Open-and Closed-Book Assessments: A Dose-Response Relationship. [[Paper](https://doi.org/10.21203/rs.3.rs-9590581/v1)]
+
 **Wu, R.**, Chen, Z., Li, G., & Shu, H. (under review). Nonlinear Sparse Generalized Canonical Correlation Analysis for Multi-view High-dimensional Data. [[Paper](https://arxiv.org/abs/2502.18756), [Code](https://github.com/Rows21/NSGCCA)]
 
 
